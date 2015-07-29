@@ -1,6 +1,4 @@
-- item
-- item
-- item
+
 
 # React-App-Isomorphic
 POC - React App Demo
